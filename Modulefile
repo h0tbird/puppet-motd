@@ -1,0 +1,8 @@
+name            'h0tbird-motd'
+version         '0.0.1'
+source          'https://github.com/h0tbird/puppet-motd'
+author          'Marc Villacorta'
+license         'GPL'
+summary         'Motd module'
+description     'Manages the /etc/motd file.'
+project_page    'https://github.com/h0tbird/puppet-motd'
